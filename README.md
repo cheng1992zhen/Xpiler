@@ -6,4 +6,7 @@
 APP下载地址
 https://play.google.com/store/apps/details?id=com.pinporn.xporn
 
+下载二维码
+![](https://github.com/xporn/Xpiler/blob/master/1536307092.png?raw=true)
+
 介绍只是表面，你懂的
